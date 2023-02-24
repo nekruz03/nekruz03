@@ -4,7 +4,7 @@
 - 👨‍💻 Solved problems on the site acmp.ru: https://acmp.ru/index.asp?main=user&id=242418
 <img align="left" width="300px" height="200px" src="https://github.com/nekruz03/semest4/blob/main/0.jpeg">
 
-<img align="right" width="300" height="200" src="https://github.com/nekruz03/semest4/blob/main/NK%20Logo.jpg">
+<img align="right" width="500" height="200" src="https://github.com/nekruz03/semest4/blob/main/NK%20Logo.jpg">
 
 
 <!---
