@@ -6,8 +6,6 @@
 
 <img align="right" width="500px" height="150px" src="https://github.com/nekruz03/semest4/blob/main/NK%20Logo.jpg">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekruz.03)](https://github.com/nekruz03)
-<!---
 nekruz03/nekruz03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
