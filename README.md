@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nekruz03)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?nekruz03=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?nekruz03)
