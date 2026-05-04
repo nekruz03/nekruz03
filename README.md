@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nekruz
-- 🌱 Java & Python
+- 🌱 Java
 - 📫 How to reach me nekruz.nazirjonov@mail.ru
 - 👨‍💻 Solved problems on the site acmp.ru: https://acmp.ru/index.asp?main=user&id=242418
 <img align="left" width="300px" height="150px" src="https://github.com/nekruz03/semest4/blob/main/0.jpeg">
